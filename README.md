@@ -11,7 +11,6 @@ I'm currently a Software Engineering Student
 - 🔭 I’m currently working on fullstack web applications
 - 👀 I’m interested in Web Mastering, Artificial Intelligence
 - 🥅 2021 Goals: Realized successfully "Hamdouleh"
-- 🥅 2022 Goals: Creating my personal Portfolio for now
 - ⚡ Fun fact: I'm a snooker player, guitarist and i'm a Public speaker too. 
 
 ### Connect with me:
