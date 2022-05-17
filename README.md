@@ -9,8 +9,8 @@ I'm currently a Software Engineering Student
 - 👋 Hi again, you can call me Daly
 - 🌱 I’m currently learning everything you can think about, would you believe ?(asked in a funny way) 
 - 🔭 I’m currently working on fullstack web applications
-- 👀 I’m interested in Web Mastering, Artificial Intelligence
-- 🥅 2021 Goals: Realized successfully "Hamdouleh"
+- 👀 I’m interested in Web Mastering.
+- 🥅 2022 Goals: Learning BI, AI & ML
 - ⚡ Fun fact: I'm a snooker player, guitarist and i'm a Public speaker too. 
 
 ### Connect with me:
