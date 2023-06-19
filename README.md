@@ -10,8 +10,8 @@ I'm currently a Software Engineering Student
 - 🌱 I’m currently learning everything you can think about, would you believe ?(asked in a funny way) 
 - 🔭 I’m currently working on fullstack web applications
 - 👀 I’m interested in Web Mastering.
-- 🥅 2022 Goals: Learning BI, AI & ML
-- ⚡ Fun fact: I'm a snooker player, guitarist and i'm a Public speaker too. 
+- 🥅 2023 Goals: Learning AI & ML
+- ⚡ Fun fact: I'm a snooker player, guitarist, boxer and i'm a Public speaker too. 
 
 ### Connect with me:
 [<img target="_blank" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'  alt='github' height='40'>](https://github.com/MohamedAliBouzir)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' target="_blank" alt='linkedin' height='40'>](https://www.linkedin.com/in/bouzir-mohamed-ali-6563931b2/)  
