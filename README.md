@@ -15,7 +15,7 @@
 <br>
 </div>
 
-## Prefered Langues
+## Most Used Languages & Streak Status
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAliBouzir&show_icons=true&locale=en&layout=compact" alt="MohamedAliBouzir" /></p>
 <br>
