@@ -13,7 +13,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <br>
+</div>
+## Prefered Langues
+<div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAliBouzir&show_icons=true&locale=en&layout=compact" alt="MohamedAliBouzir" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mohamedalibouzir&show_icons=true&locale=en" alt="mohamedalibouzir" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalibouzir&" alt="mohamedalibouzir" /></p>
 </div> 
 
