@@ -13,6 +13,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAliBouzir&show_icons=true&locale=en&layout=compact" alt="MohamedAliBouzir" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAliBouzir&show_icons=true&locale=en&layout=compact" alt="MohamedAliBouzir" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mohamedalibouzir&show_icons=true&locale=en" alt="mohamedalibouzir" /></p>
 </div> 
 
