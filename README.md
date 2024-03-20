@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/bouzir-mohamed-ali/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-</div>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAliBouzir&label=Profile%20views&color=0e8bb4&style=flat" alt="mohamedalibouzir" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedalibouzir" alt="mohamedalibouzir" /></a> </p>
+</div> 
 
