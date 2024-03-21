@@ -19,6 +19,6 @@
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAliBouzir&show_icons=true&locale=en&layout=compact" alt="MohamedAliBouzir" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedalibouzir&" alt="mohamedalibouzir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAliBouzir&" alt="MohamedAliBouzir" /></p>
 </div> 
 
