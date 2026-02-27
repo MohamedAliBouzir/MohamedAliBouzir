@@ -1,6 +1,6 @@
 
 ## Hello Hello 👋, My name is Mohamed Ali Bouzir
-###### A Junior Software Engineer dedicated to crafting exceptional digital experiences that push boundaries.
+###### A Software Engineer dedicated to crafting exceptional digital experiences that push boundaries.
 ##### "We Must Be The Change We Wish To See In The World !" - Mahatma Gandhi
 
 ## Connect with me  
